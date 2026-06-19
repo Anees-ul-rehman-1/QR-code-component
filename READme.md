@@ -3,13 +3,13 @@
 This is solution to the [QR code component challenge on Fronten Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIo_H). Frontend Mentor challenges help you improve your coding skills by building realstic projects. 
 
 ## Table of contents 
- - [Overview](#overview)
+ - [Overview]
   This was Frontend Mentor **(New Bie)** QR Code Component Challenge. Also this was my fourth challenge from Frontend Mentor. My goal was create this design with **HTML and CSS**, and focus on mobile responsive. It was simple and easy peasy challenge not to hard. 
 
  ![Design for the QR Code Component Challenge](/Assets/images/Preview.png)
 
- - [Live Site URL]()
- - [GitHub repo]()
+ - [Live Site URL](https://qr-code-component4.netlify.app/)
+ - [GitHub repo](https://github.com/Anees-ul-rehman-1/QR-code-component.git)
 
  ## My process (Built with)
   - semantic HTML5
